@@ -57,7 +57,7 @@ I'm a passionate full-stack developer and DevOps engineer with hands-on experien
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ahmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ahmed&layout=compact&theme=radical&hide_border=true&hide=php" alt="Top Languages" />
 </p>
 
 ---
@@ -89,16 +89,10 @@ I'm a passionate full-stack developer and DevOps engineer with hands-on experien
 
 ---
 
-### 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafa-ahmed&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
-
 ### 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-012675279/)  
-- 📬 Email: mustafabukhari333@gmail.com 
+- 📬 Email: mustafabukhari333@gmail.com  
 
 ---
 
