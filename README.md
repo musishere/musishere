@@ -73,46 +73,6 @@ I'm a passionate full-stack developer and DevOps engineer with hands-on experien
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-ahmed&show_icons=true&theme=professional&hide_border=true&count_private=true&include_all_commits=true&hide=issues)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-ahmed&theme=professional&hide_border=true&fire=DD2727&currStreakLabel=DD2727)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ahmed&layout=compact&theme=professional&hide_border=true&hide=php&langs_count=8&card_width=500)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements  
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mustafa-ahmed&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-### 🌟 Profile Achievements  
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/mustafa-ahmed?achievement=star" alt="Achievement: Star" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/mustafa-ahmed?achievement=medal" alt="Achievement: Medal" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/mustafa-ahmed?achievement=champion" alt="Achievement: Champion" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge/mustafa-ahmed?achievement=explorer" alt="Achievement: Explorer" />
-</p>
-
----
-
-### 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafa-ahmed&theme=redical&bg_color=141321&color=ffffff&line=ff6e96&point=f5d3d3&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-012675279/)  
