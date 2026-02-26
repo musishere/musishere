@@ -1,6 +1,6 @@
 <h1 align="center">Mustafa Ahmed</h1>
 <p align="center">
-  <strong>Full-Stack Engineer</strong> • <strong>Cloud & DevOps Architect</strong> • <strong>Distributed Systems Engineer</strong>
+  <strong>Software Engineer</strong> • <strong>Cloud & DevOps Architect</strong> • <strong>Distributed Systems Engineer</strong>
 </p>
 
 About
