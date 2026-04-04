@@ -1,86 +1,57 @@
 <h1 align="center">Mustafa Ahmed</h1>
+
 <p align="center">
-  <strong>Software Engineer</strong> • <strong>Cloud & DevOps Architect</strong> • <strong>Distributed Systems Engineer</strong>
+  Backend Engineer &nbsp;&middot;&nbsp; Golang &nbsp;&middot;&nbsp; Node.js &nbsp;&middot;&nbsp; AWS &nbsp;&middot;&nbsp; Distributed Systems
 </p>
 
-About
-Software engineer specializing in production-grade web applications and scalable cloud infrastructure. I focus on building systems that are reliable, cost-efficient, and maintainable. My work spans the entire stack, from backend services and databases to infrastructure automation and deployment pipelines, with an emphasis on clarity, simplicity, and scalability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20relocation-EU%20%2F%20Canada-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visa%20sponsorship-required-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS%20SAA-in%20progress-f59e0b?style=flat-square" />
+</p>
 
-Technical Expertise
-Languages & Runtime
+---
 
-Go (Golang), JavaScript, TypeScript
-Node.js runtime environment
+### What I build
 
-Backend & API Development
+Backend engineer focused on **high-concurrency systems in Go** and **cloud-native infrastructure on AWS**. I've built event-driven pipelines processing 50K+ events/day, real-time WebSocket systems handling 500+ concurrent connections, and REST APIs serving thousands of users — all in production.
 
-RESTful and GraphQL API design
-Microservices architecture
-Event-driven systems
-Express, Next.js frameworks
+Currently deepening expertise in **distributed systems** — consistent hashing, caching strategies, message queues, and system design — to build things that scale reliably under real load.
 
-Database Systems
+---
 
-Relational: PostgreSQL, MySQL
-NoSQL: MongoDB, DynamoDB, Redis
-Search: Elasticsearch
-Geospatial workloads
+### What I'm working on now
 
-Cloud & Infrastructure (AWS)
+| Building | Goal |
+|---|---|
+| Distributed rate limiter in Go | Flagship portfolio project |
+| AWS Solutions Architect – Associate | Certification target Q3 2025 |
+| System design practice (1 per week) | Interview readiness |
 
-Compute: EC2, Lambda
-Storage: S3, EBS
-Database: RDS, DynamoDB
-Networking: VPC, API Gateway
-Security: IAM, Security Groups
+---
 
-DevOps & Infrastructure as Code
+### Tech stack
 
-Containerization: Docker, Kubernetes
-Infrastructure: Terraform, AWS CloudFormation
-CI/CD: GitHub Actions, Jenkins
-Orchestration: ECS, EKS
+`Go` `Node.js` `TypeScript` `PostgreSQL` `Redis` `MongoDB` `AWS` `Docker` `SQS` `WebSockets` `REST` `Clean Architecture` `Microservices`
 
-Observability & Monitoring
+---
 
-AWS CloudWatch
-Application Performance Monitoring: Datadog, New Relic
-Centralized logging and distributed tracing
-Metrics aggregation and alerting
+### Pinned projects
 
+**[scalable-sports-backend](https://github.com/musishere/scalable-sports-backend)**  
+Go · AWS SQS · PostgreSQL · Docker — Event-driven backend processing 50K+ sports events/day with worker pools, context propagation, and graceful shutdown.
 
-Core Competencies
+**[realtime-chat](https://github.com/musishere/realtime-chat)**  
+Node.js · Socket.IO · Redis · PostgreSQL — Real-time chat supporting 500+ concurrent users with Redis pub/sub fan-out and message persistence.
 
-Designing and implementing backend services with Go and Node.js
-Architecting cloud-native solutions on AWS
-Building automated CI/CD pipelines for continuous delivery
-Infrastructure automation using Terraform and IaC principles
-Database design and optimization for both SQL and NoSQL systems
-Applying distributed systems patterns for scalability and fault tolerance
-Performance optimization and cost engineering for cloud workloads
+---
 
+### Let's connect
 
-Current Focus
+📧 mustafabukhari333@gmail.com  
+&nbsp; LinkedIn: [mustafa-ahmed-012675279](https://linkedin.com/in/mustafa-ahmed-012675279)  
+&nbsp; Location: Lahore, Pakistan → open to EU / Canada
 
-Architecting highly available distributed systems
-Advanced Kubernetes patterns and cluster management
-Serverless and event-driven architecture design
-Performance profiling and optimization techniques
-Building resilient microservices with Go
+---
 
-
-Professional Development
-Continuously expanding expertise in:
-
-Large-scale system design and architecture
-Kubernetes internals and advanced orchestration
-Go concurrency patterns and performance optimization
-Cloud cost optimization strategies
-Site reliability engineering practices
-
-
-Contact
-LinkedIn: linkedin.com/in/mustafa-ahmed-012675279
-Email: mustafabukhari333@gmail.com
-
-<p align="center"><i>"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra</i></p>
+<p align="center"><i>"Simplicity is the prerequisite for reliability." – Dijkstra</i></p>
