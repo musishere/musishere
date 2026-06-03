@@ -107,10 +107,8 @@ func main() {
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-musishere-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/musishere)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mustafa-ahmed](https://www.linkedin.com/in/mustafa-ahmed-012675279/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa_Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ahmed-012675279/)
 &nbsp;
-[![Phone](https://img.shields.io/badge/WhatsApp-%2B92_329_8260817-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923298260817)
-
 </div>
 
 ---
