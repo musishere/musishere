@@ -1,0 +1,89 @@
+<svg viewBox="0 0 1100 800" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif">
+
+  <defs>
+    <filter id="grainH" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.62" numOctaves="3" seed="11" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <radialGradient id="vigH" cx="50%" cy="46%" r="72%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3a2f1d" stop-opacity="0.18"/>
+    </radialGradient>
+    <linearGradient id="ageH" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d9c79c" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#b9a26f" stop-opacity="0.10"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1100" height="800" fill="#f2e7d0"/>
+  <rect x="0" y="0" width="1100" height="800" fill="url(#ageH)"/>
+  <rect x="0" y="0" width="1100" height="800" fill="url(#grainH)" opacity="0.07"/>
+  <rect x="0" y="0" width="1100" height="800" fill="url(#vigH)"/>
+<rect x="16" y="16" width="1068" height="768" fill="none" stroke="#1c1a17" stroke-width="2.5"/>
+<rect x="23" y="23" width="1054" height="754" fill="none" stroke="#1c1a17" stroke-width="0.8"/>
+<text x="48" y="56" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="1">VOL. I &#183; No. CCXLVII</text>
+<text x="48" y="73" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="start" fill="#4a4036" letter-spacing="1.5">ESTABLISHED MMXXVI</text>
+<text x="1052" y="56" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#1c1a17" letter-spacing="1">WEDNESDAY, JUNE 24, 2026</text>
+<text x="1052" y="73" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="10" font-weight="normal" font-style="italic" text-anchor="end" fill="#4a4036" letter-spacing="1.5">PRICE &#8212; TWO BITS</text>
+<text x="550.0" y="64" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="12" font-weight="normal" font-style="normal" text-anchor="middle" fill="#4a4036" letter-spacing="3">THE INDEPENDENT JOURNAL OF BACKEND ENGINEERING</text>
+<line x1="330" y1="80" x2="770" y2="80" stroke="#9c855f" stroke-width="0.8"/>
+<text x="550.0" y="178" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="84" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1c1a17" letter-spacing="1">The Mustafa Times</text>
+<text x="550.0" y="212" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="17" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4a4036" letter-spacing="0.5">&#8220;All the Code That&#8217;s Fit to Ship.&#8221;</text>
+<line x1="40" y1="230" x2="1060" y2="230" stroke="#1c1a17" stroke-width="3.2"/>
+<line x1="40" y1="237" x2="1060" y2="237" stroke="#1c1a17" stroke-width="1.0"/>
+<text x="550.0" y="257" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="11.5" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1c1a17" letter-spacing="1.5">LAHORE &#183; PAKISTAN &#160;&#160;&#9670;&#160;&#160; REMOTE &amp; RELOCATION EDITION &#160;&#160;&#9670;&#160;&#160; GO &#183; NODE.JS &#183; POSTGRES &#183; AWS &#183; DOCKER</text>
+<line x1="40" y1="270" x2="1060" y2="270" stroke="#1c1a17" stroke-width="1.0"/>
+<text x="550.0" y="320" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="38" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1c1a17" letter-spacing="0.5">ENGINEER, &#8216;OPEN TO WORK,&#8217; SCALES</text>
+<text x="550.0" y="364" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="38" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1c1a17" letter-spacing="0.5">SYSTEMS UNDER REAL-WORLD LOAD</text>
+<text x="550.0" y="400" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="16" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4a4036" letter-spacing="0">Go-first specialist builds high-concurrency systems and event-driven pipelines &#8212; &#8216;reliability-obsessed,&#8217; colleagues report.</text>
+<line x1="440" y1="418" x2="660" y2="418" stroke="#9c855f" stroke-width="0.8"/>
+<text x="550.0" y="440" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="12" font-weight="bold" font-style="normal" text-anchor="middle" fill="#4a4036" letter-spacing="1.5">By OUR ENGINEERING CORRESPONDENT &#160;&#183;&#160; LAHORE BUREAU</text>
+<line x1="40" y1="452" x2="1060" y2="452" stroke="#1c1a17" stroke-width="1.6"/>
+<line x1="372" y1="460" x2="372" y2="744" stroke="#9c855f" stroke-width="0.8"/>
+<line x1="706" y1="460" x2="706" y2="744" stroke="#9c855f" stroke-width="0.8"/>
+<text x="52" y="514" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="58" font-weight="bold" font-style="normal" text-anchor="start" fill="#7c2d12" letter-spacing="0">M</text>
+<text x="96" y="478.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">USTAFA AHMED, a backend</text>
+<text x="96" y="496.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">software engineer based in</text>
+<text x="96" y="515.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">Lahore, has spent his career</text>
+<text x="96" y="533.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">building services that refuse</text>
+<text x="52" y="552.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">to fall over. His specialty is</text>
+<text x="52" y="570.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">Go &#8212; and the quiet art of</text>
+<text x="52" y="589.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">high concurrency at scale.</text>
+<text x="52" y="607.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">Worker pools, channel</text>
+<text x="52" y="626.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">pipelines and message queues</text>
+<text x="52" y="644.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">are his daily instruments;</text>
+<text x="52" y="663.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">PostgreSQL and Redis, his</text>
+<text x="52" y="681.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">filing cabinets of record.</text>
+<text x="392" y="474" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13" font-weight="bold" font-style="normal" text-anchor="start" fill="#7c2d12" letter-spacing="1.5">THE RECORD</text>
+<line x1="392" y1="480" x2="687" y2="480" stroke="#9c855f" stroke-width="0.7"/>
+<text x="392" y="502.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#9656; High-concurrency Go services</text>
+<text x="392" y="520.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#9656; Event-driven systems built atop</text>
+<text x="392" y="539.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#160;&#160; AWS SQS and worker pools</text>
+<text x="392" y="557.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#9656; Clean, production-grade APIs</text>
+<text x="392" y="576.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="bold" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#9656; Dockerised, observable, tested</text>
+<text x="392" y="594.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0"></text>
+<text x="392" y="613.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">&#160;&#160;&#160;Mr. Ahmed also keeps a</text>
+<text x="392" y="631.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">hand in Node.js, React, and</text>
+<text x="392" y="650.0" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">real-time WebSocket systems,</text>
+<text x="392" y="668.5" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13.2" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">our correspondent has learned.</text>
+<text x="726" y="474" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="13" font-weight="bold" font-style="normal" text-anchor="start" fill="#7c2d12" letter-spacing="1.5">ON THE TICKER</text>
+<line x1="726" y1="480" x2="1048" y2="480" stroke="#9c855f" stroke-width="0.7"/>
+<rect x="726" y="488" width="322" height="118" fill="none" stroke="#1c1a17" stroke-width="1"/>
+<text x="738" y="508" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">GOLANG .........</text>
+<text x="1036" y="508" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#7c2d12" letter-spacing="0">&#9650; STRONG</text>
+<text x="738" y="525" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">CONCURRENCY ....</text>
+<text x="1036" y="525" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#7c2d12" letter-spacing="0">&#9650; STRONG</text>
+<text x="738" y="542" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">RELIABILITY ....</text>
+<text x="1036" y="542" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#7c2d12" letter-spacing="0">&#9650; RISING</text>
+<text x="738" y="559" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">UPTIME .........</text>
+<text x="1036" y="559" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#1c1a17" letter-spacing="0">&#9650; STEADY</text>
+<text x="738" y="576" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">BUGS ...........</text>
+<text x="1036" y="576" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#4a4036" letter-spacing="0">&#9660; FALLING</text>
+<text x="738" y="593" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="normal" font-style="normal" text-anchor="start" fill="#1c1a17" letter-spacing="0">DOWNTIME .......</text>
+<text x="1036" y="593" font-family="'Courier New', 'Courier', monospace" font-size="12" font-weight="bold" font-style="normal" text-anchor="end" fill="#4a4036" letter-spacing="0">&#9660; FALLING</text>
+<text x="726" y="620" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="11" font-weight="normal" font-style="italic" text-anchor="start" fill="#4a4036" letter-spacing="0">Disclaimer: past uptime is no</text>
+<text x="726" y="635" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="11" font-weight="normal" font-style="italic" text-anchor="start" fill="#4a4036" letter-spacing="0">guarantee of future bugs.</text>
+<text x="1048" y="670" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="11.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#7c2d12" letter-spacing="1">TURN TO PROJECTS, BELOW &#9660;</text>
+<line x1="40" y1="758" x2="1060" y2="758" stroke="#1c1a17" stroke-width="1.6"/>
+<text x="550.0" y="776" font-family="Georgia, 'Times New Roman', 'Liberation Serif', serif" font-size="10.5" font-weight="normal" font-style="italic" text-anchor="middle" fill="#4a4036" letter-spacing="1">PRINTED ON THE README PRESS &#160;&#183;&#160; GITHUB.COM / MUSISHERE &#160;&#183;&#160; CONTINUED INSIDE</text>
+</svg>
