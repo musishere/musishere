@@ -51,8 +51,10 @@ through deployment and the on-call that follows.
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=musishere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=808080" />
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musishere&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=808080" />
+<img height="200" alt="Commit, PR and issue totals" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=musishere&theme=default" />
+<img height="200" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musishere&theme=default" />
+
+<img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contribution%20Activity&bg_color=ffffff&color=1f2328&title_color=0969da&line=0969da&point=1f2328&area=true&area_color=0969da&hide_border=false&border_color=d0d7de&radius=8" />
 
 </div>
 
