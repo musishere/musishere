@@ -10,13 +10,9 @@
 
 ## About
 
-I build backend systems that stay up. My work centres on Go — high-concurrency
-services, worker pools, and event-driven pipelines — backed by PostgreSQL, Redis,
-and AWS. I care about clean architecture, production readiness, and code the next
-engineer can read without a walkthrough.
+I build backend systems that stay up. My work centers on high-concurrency services, distributed workloads, and event-driven pipelines — backed by solid data and cloud infrastructure. I value clean architecture, production readiness, and code the next engineer can read without a walkthrough.
 
-Founder and engineer: I own the work end to end, from architecture and API design
-through deployment and the on-call that follows.
+Founder & engineer — I own the work end to end: architecture, API design, deployment, and the on-call that follows.
 
 **Based in Lahore, Pakistan · open to remote and relocation.**
 
