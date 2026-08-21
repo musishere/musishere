@@ -12,9 +12,9 @@
 
 I build backend systems that stay up. My work centers on high-concurrency services, distributed workloads, and event-driven pipelines — backed by solid data and cloud infrastructure. I value clean architecture, production readiness, and code the next engineer can read without a walkthrough.
 
-Founder & engineer — I own the work end to end: architecture, API design, deployment, and the on-call that follows.
+Software engineer — I own the work end to end: architecture, API design, deployment, and the on-call that follows.
 
-**Based in Lahore, Pakistan · open to remote and relocation.**
+**Based in Lahore, Pakistan · **
 
 ## Selected Work
 
