@@ -1,143 +1,63 @@
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--   THE MUSTAFA TIMES · profile README                              -->
-<!--   Asset SVGs live in ./assets — keep them next to this file.     -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="./assets/masthead.svg" width="100%" alt="The Mustafa Times — Backend Engineer, Open to Work" />
+<img src="./assets/banner.svg" width="100%" alt="Mustafa Ahmed — Founder & Software Engineer" />
 
-<a href="https://github.com/musishere">
-  <img src="https://komarev.com/ghpvc/?username=musishere&style=flat&color=7c2d12&labelColor=1c1a17&label=DAILY+READERS" alt="reader count" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ahmed-012675279/)
+[![Email](https://img.shields.io/badge/Email-mustafabukhari333@gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:mustafabukhari333@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-musishere-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/musishere)
 
 </div>
 
-<br/>
+## About
 
-<!-- ───────────────────────────  PROJECTS  ─────────────────────────── -->
+I build backend systems that stay up. My work centres on Go — high-concurrency
+services, worker pools, and event-driven pipelines — backed by PostgreSQL, Redis,
+and AWS. I care about clean architecture, production readiness, and code the next
+engineer can read without a walkthrough.
 
-<img src="./assets/sec_projects.svg" width="100%" alt="Today's Headlines — Selected Works" />
+Founder and engineer: I own the work end to end, from architecture and API design
+through deployment and the on-call that follows.
 
-> **SCALABLE SPORTS BACKEND** — *A high-concurrency Go service handles the crowd without breaking a sweat.*
-> `Go` · `AWS SQS` · `PostgreSQL` · `Docker` — Worker pools, channel pipelines, and event-driven message processing over SQS. **[Read the full story → »](https://github.com/musishere)**
+**Based in Lahore, Pakistan · open to remote and relocation.**
 
-> **REAL-TIME CHAT APP** — *Thousands converse at once; presence stays live, sources confirm.*
-> `Node.js` · `Socket.IO` · `React` — Multi-room chat with live presence, private messaging, and WebSocket concurrency handling. **[Read the full story → »](https://github.com/musishere)**
+## Selected Work
 
-> **E-COMMERCE PLATFORM** — *Full-stack storefront opens its doors to the public.*
-> `Node.js` · `MongoDB` · `React` — Product management, cart, JWT auth, and MVC-structured REST APIs. **[Read the full story → »](https://github.com/musishere)**
+| Project | Stack | Summary |
+|:---|:---|:---|
+| **[Scalable Sports Backend](https://github.com/musishere)** | Go · AWS SQS · PostgreSQL · Docker | High-concurrency service built on worker pools, channel pipelines, and event-driven SQS message processing. |
+| **[Real-Time Chat Platform](https://github.com/musishere)** | Node.js · Socket.IO · React | Multi-room messaging with live presence, private channels, and WebSocket concurrency handling. |
+| **[E-Commerce Platform](https://github.com/musishere)** | Node.js · MongoDB · React | Full-stack storefront: product management, cart, JWT auth, and MVC-structured REST APIs. |
+| **[Learning Management System](https://github.com/musishere)** | Node.js · PostgreSQL | Modular course platform with enrollment tracking and layered API validation. |
 
-> **LMS BACKEND** — *Modular course system enrolls students by the hundred.*
-> `Node.js` · `PostgreSQL` — Course management with enrollment tracking and layered API validation. **[Read the full story → »](https://github.com/musishere)**
+## Stack
 
-<br/>
+| Area | Tools |
+|:---|:---|
+| Languages | Go, TypeScript, JavaScript |
+| Go frameworks | Gin, Fiber |
+| Node ecosystem | Express, Socket.IO, React |
+| Databases | PostgreSQL, MongoDB, MySQL |
+| Cache & queues | Redis, AWS SQS |
+| Cloud & delivery | AWS, Docker, Git |
+| Practices | REST API design, clean architecture, microservices, WebSockets, JWT |
 
-<!-- ──────────────────────────  TECH STACK  ────────────────────────── -->
+## Currently
 
-<img src="./assets/sec_tech.svg" width="100%" alt="Market Report — The Technology Exchange" />
+- Building high-concurrency Go services and event-driven architectures
+- Deepening distributed systems work: queues, worker pools, observability
+- Open to founding-engineer and senior backend roles, and to collaboration
 
-<div align="center"><sub><i>Closing positions as of the latest commit. Past performance is no guarantee of future bugs.</i></sub></div>
-
-| COMMODITY | SECTOR | POSITION | TREND |
-|:---|:---|:---|:---:|
-| **Go (Golang)** | Languages | Primary holding | ▲ Strong Buy |
-| **Node.js** | Runtime | Core position | ▲ Buy |
-| TypeScript / JavaScript | Languages | Accumulating | ▲ Buy |
-| Gin · Fiber | Go Frameworks | Long | ▲ Buy |
-| Express · React | Web Frameworks | Held | ◆ Hold |
-| PostgreSQL | Databases | Primary holding | ▲ Buy |
-| MongoDB · MySQL | Databases | Long | ◆ Hold |
-| Redis | Cache & Queues | Long | ▲ Buy |
-| AWS · SQS | Cloud | Core position | ▲ Buy |
-| Docker · Git | DevOps & Tooling | Always long | ▲ Buy |
-
-<sub><b>ALSO TRADING:</b> REST APIs · Clean Architecture · Microservices · WebSockets · JWT</sub>
-
-<br/>
-
-<!-- ─────────────────────────  EDITOR'S DESK  ──────────────────────── -->
-
-<img src="./assets/sec_editor.svg" width="100%" alt="From the Editor's Desk — focus.go" />
-
-```go
-package main
-
-import "fmt"
-
-type Engineer struct {
-	Name         string
-	Speciality   string
-	CurrentFocus []string
-	OpenTo       string
-}
-
-func main() {
-	me := Engineer{
-		Name:       "Mustafa Ahmed",
-		Speciality: "Go Backend & Distributed Systems",
-		CurrentFocus: []string{
-			"High-concurrency Go services",
-			"Event-driven architectures (SQS, worker pools)",
-			"Clean, production-grade API design",
-		},
-		OpenTo: "Remote or relocation — worldwide",
-	}
-
-	fmt.Printf("%s is %s 🗞️\n", me.Name, me.OpenTo)
-	// hire me
-}
-```
-
-<br/>
-
-<!-- ─────────────────────────  BY THE NUMBERS  ─────────────────────── -->
-
-<img src="./assets/sec_numbers.svg" width="100%" alt="By the Numbers — Commits & Contributions" />
+## Activity
 
 <div align="center">
 
-<img height="172" src="https://github-readme-stats.vercel.app/api?username=musishere&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=f2e7d0&title_color=7c2d12&icon_color=7c2d12&text_color=1c1a17&border_color=9c855f" alt="github stats" />
-<img height="172" src="https://github-readme-streak-stats.herokuapp.com/?user=musishere&hide_border=false&background=f2e7d0&border=9c855f&stroke=9c855f&ring=7c2d12&fire=7c2d12&currStreakLabel=7c2d12&sideLabels=1c1a17&dates=4a4036&currStreakNum=1c1a17&sideNums=1c1a17" alt="commit streak" />
-
-<img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musishere&layout=compact&langs_count=8&hide_border=false&bg_color=f2e7d0&title_color=7c2d12&text_color=1c1a17&border_color=9c855f" alt="most-used languages" />
+<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=musishere&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=2f81f7&icon_color=2f81f7&text_color=808080" />
+<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musishere&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2f81f7&text_color=808080" />
 
 </div>
 
-<br/>
+## Contact
 
-<!-- ───────────────────────────  ON THE WIRE  ─────────────────────── -->
-
-<img src="./assets/sec_wire.svg" width="100%" alt="On the Wire — Recent Activity" />
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contribution%20Dispatch&bg_color=f2e7d0&color=1c1a17&line=7c2d12&point=1c1a17&title_color=7c2d12&area=true&area_color=cbb487&hide_border=false&border_color=9c855f" alt="contribution activity graph" />
-
-</div>
-
-<br/>
-
-<!-- ───────────────────────────  CLASSIFIEDS  ─────────────────────── -->
-
-<img src="./assets/sec_classifieds.svg" width="100%" alt="Classifieds — Contact the Desk" />
-
-> **SITUATIONS WANTED.** Backend engineer, Go-first, seeks demanding work building high-concurrency, distributed, and event-driven systems. Remote or relocation considered — worldwide. Excellent references (uptime) available on request. **Enquire at the desk below. ▾**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/BY%20POST-mustafabukhari333@gmail.com-7c2d12?style=flat&logo=gmail&logoColor=f2e7d0&labelColor=1c1a17)](mailto:mustafabukhari333@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/THE%20ARCHIVES-musishere-1c1a17?style=flat&logo=github&logoColor=f2e7d0&labelColor=1c1a17)](https://github.com/musishere)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/SOCIAL%20COLUMN-Mustafa%20Ahmed-4a4036?style=flat&logo=linkedin&logoColor=f2e7d0&labelColor=1c1a17)](https://www.linkedin.com/in/mustafa-ahmed-012675279/)
-
-<br/><br/>
-
-<sub><i>The Mustafa Times · Printed daily on the README Press · Lahore, Pakistan</i></sub>
-
-<br/>
-
-**— 30 —**
-
-</div>
+Best reached by [email](mailto:mustafabukhari333@gmail.com) or on
+[LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-012675279/). Happy to talk
+about backend architecture, Go, or work you need shipped.
