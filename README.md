@@ -1,65 +1,23 @@
 <div align="center">
+<img src="https://github.com/musishere.png" width="22%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=44&duration=4000&pause=300&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=120&lines=Hey+there;I'm+Mustafa+%E2%80%94+founder+%26+backend+engineer+%E2%9A%A1" width="70%" />
+<br><br>
+<pre>
+    💼 Founder & Software Engineer • Lahore, PK 🇵🇰
+    🐹 Go • high-concurrency services • worker pools • event-driven pipelines
+    🗄️ PostgreSQL • Redis • MongoDB • AWS SQS
+    ☁️ AWS • Docker • clean architecture • microservices
+    🌙 Open to remote & relocation
+</pre>
+<br>
 
-<img src="./assets/banner.svg" width="100%" alt="Mustafa Ahmed — Founder & Software Engineer" />
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/mustafa-ahmed-012675279/)
+[![](https://img.shields.io/badge/email-24292f)](mailto:mustafabukhari333@gmail.com)
+[![](https://img.shields.io/badge/github-181717)](https://github.com/musishere)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mustafa%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ahmed-012675279/)
-[![Email](https://img.shields.io/badge/Email-mustafabukhari333@gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:mustafabukhari333@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-musishere-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/musishere)
+<br>
 
-</div>
-
-## About
-
-I build backend systems that stay up. My work centres on Go — high-concurrency
-services, worker pools, and event-driven pipelines — backed by PostgreSQL, Redis,
-and AWS. I care about clean architecture, production readiness, and code the next
-engineer can read without a walkthrough.
-
-Founder and engineer: I own the work end to end, from architecture and API design
-through deployment and the on-call that follows.
-
-**Based in Lahore, Pakistan · open to remote and relocation.**
-
-## Selected Work
-
-| Project | Stack | Summary |
-|:---|:---|:---|
-| **[Scalable Sports Backend](https://github.com/musishere)** | Go · AWS SQS · PostgreSQL · Docker | High-concurrency service built on worker pools, channel pipelines, and event-driven SQS message processing. |
-| **[Real-Time Chat Platform](https://github.com/musishere)** | Node.js · Socket.IO · React | Multi-room messaging with live presence, private channels, and WebSocket concurrency handling. |
-| **[E-Commerce Platform](https://github.com/musishere)** | Node.js · MongoDB · React | Full-stack storefront: product management, cart, JWT auth, and MVC-structured REST APIs. |
-| **[Learning Management System](https://github.com/musishere)** | Node.js · PostgreSQL | Modular course platform with enrollment tracking and layered API validation. |
-
-## Stack
-
-| Area | Tools |
-|:---|:---|
-| Languages | Go, TypeScript, JavaScript |
-| Go frameworks | Gin, Fiber |
-| Node ecosystem | Express, Socket.IO, React |
-| Databases | PostgreSQL, MongoDB, MySQL |
-| Cache & queues | Redis, AWS SQS |
-| Cloud & delivery | AWS, Docker, Git |
-| Practices | REST API design, clean architecture, microservices, WebSockets, JWT |
-
-## Currently
-
-- Building high-concurrency Go services and event-driven architectures
-- Deepening distributed systems work: queues, worker pools, observability
-- Open to founding-engineer and senior backend roles, and to collaboration
-
-## Activity
-
-<div align="center">
-
-<img height="200" alt="Commit, PR and issue totals" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=musishere&theme=default" />
-<img height="200" alt="Most used languages by commits" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musishere&theme=default" />
-
-<img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contribution%20Activity&bg_color=ffffff&color=1f2328&title_color=0969da&line=0969da&point=1f2328&area=true&area_color=0969da&hide_border=false&border_color=d0d7de&radius=8" />
+<img height="150" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=musishere&theme=default" />
+<img height="150" alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=musishere&theme=default" />
 
 </div>
-
-## Contact
-
-Best reached by [email](mailto:mustafabukhari333@gmail.com) or on
-[LinkedIn](https://www.linkedin.com/in/mustafa-ahmed-012675279/). Happy to talk
-about backend architecture, Go, or work you need shipped.
