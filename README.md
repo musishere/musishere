@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/musishere.png" width="22%" align="right" />
+<img src="./assets/gojo.gif" width="30%" align="right" alt="Gojo — Hollow Purple" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=44&duration=4000&pause=300&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=120&lines=Hey+there;I'm+Mustafa+%E2%80%94+backend+%26+systems+engineer+%E2%9A%A1" width="70%" />
 <br><br>
 <pre>
