@@ -127,11 +127,16 @@ Turf-booking marketplace I co-founded. I own the backend, written in Go.
 
 <br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contributions&bg_color=0A0C12&color=94A3B8&title_color=F8FAFC&line=6366F1&point=67E8F9&area=true&area_color=6366F1&hide_border=true&radius=16" />
-    <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contributions&bg_color=FFFFFF&color=475569&title_color=0F172A&line=4F46E5&point=0891B2&area=true&area_color=4F46E5&hide_border=true&radius=16" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/now.svg" />
+  <img src="./assets/now-light.svg" width="100%" alt="What I'm working on: shipped Warden as an MCP gateway; now taking Warden live on Azure; next, gateway canary releases, SLOs and vLLM routing" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musishere/musishere/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/musishere/musishere/output/github-snake.svg" width="100%" alt="Contribution graph animated as a snake" />
+</picture>
 
 <p align="center"><sub>BSc Computer Science, University of Lahore · <a href="mailto:mustafabukhari333@gmail.com">mustafabukhari333@gmail.com</a></sub></p>
