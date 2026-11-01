@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Mustafa Ahmed, AI agent and backend engineer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg" />
+  <img src="./assets/hero-light.svg" width="100%" alt="Mustafa Ahmad, AI agent and backend engineer" />
+</picture>
+
+AI agent & backend engineer. I build production AI agents and the infrastructure that keeps them secure, metered and auditable.
+
+Lahore, PK · Remote (GMT+5) · Open to remote AI / backend roles
 
 <br/>
 
@@ -14,7 +21,16 @@
 
 ### Projects
 
-<a href="https://github.com/musishere/Warden-tickmark"><img src="./assets/warden.svg" width="100%" alt="Warden" /></a>
+<a href="https://github.com/musishere/Warden-tickmark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/warden.svg" />
+    <img src="./assets/warden-light.svg" width="100%" alt="Warden" />
+  </picture>
+</a>
+
+An MCP gateway that enforces per-call authorization, ethical walls and an append-only audit trail for AI agents at audit, law and consulting firms.
+
+Works with unmodified Claude Code and VS Code, and tools an agent shouldn't use are never exposed, so a prompt-injected call to one just returns `unknown tool`.
 
 <details>
 <summary><b>More on Warden</b></summary>
@@ -37,7 +53,16 @@ The repo also has Tickmark, an agent that vouches an Excel sample against invoic
 
 <br/>
 
-<a href="https://github.com/musishere/AI-platform-engineering/tree/main/llm-gateway"><img src="./assets/gateway.svg" width="100%" alt="LLM Gateway" /></a>
+<a href="https://github.com/musishere/AI-platform-engineering/tree/main/llm-gateway">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/gateway.svg" />
+    <img src="./assets/gateway-light.svg" width="100%" alt="LLM Gateway" />
+  </picture>
+</a>
+
+A multi-tenant proxy in front of the Claude API with hashed keys, per-call usage metering and Redis rate limits.
+
+Fixed a concurrency race with reserve-then-settle accounting in Redis Lua: 20 concurrent requests with 100 tokens left → 4 admitted, 0 overshoot.
 
 <details>
 <summary><b>More on the gateway</b></summary>
@@ -55,7 +80,16 @@ Next up: canary releases, SLOs with burn-rate alerts, then a self-hosted model o
 
 <br/>
 
-<img src="./assets/khel.svg" width="100%" alt="Khel" />
+<a href="https://khel-landing.pages.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/khel.svg" />
+    <img src="./assets/khel-light.svg" width="100%" alt="Khel" />
+  </picture>
+</a>
+
+A turf-booking marketplace I co-founded, where I own the Go backend ([khel-landing.pages.dev](https://khel-landing.pages.dev/)).
+
+Built peer-to-peer split payments in-house instead of using a third-party gateway, which cut transaction costs and removed an external dependency.
 
 <details>
 <summary><b>More on Khel</b></summary>
@@ -75,9 +109,18 @@ Turf-booking marketplace I co-founded. I own the backend, written in Go.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,py,dotnet,ts&theme=dark" height="44" alt="Rust, Go, Python, .NET, TypeScript" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,redis,react&theme=dark" height="44" alt="FastAPI, Node.js, NestJS, PostgreSQL, Redis, React" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux&theme=dark" height="44" alt="AWS, Azure, Docker, Kubernetes, Terraform, Linux" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,py,dotnet,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,go,py,dotnet,ts&theme=light" height="44" alt="Rust, Go, Python, .NET, TypeScript" />
+  </picture><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,redis,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,redis,react&theme=light" height="44" alt="FastAPI, Node.js, NestJS, PostgreSQL, Redis, React" />
+  </picture><br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,linux&theme=light" height="44" alt="AWS, Azure, Docker, Kubernetes, Terraform, Linux" />
+  </picture>
 </p>
 
 <p align="center"><sub>Also: Claude API, MCP, LangGraph, RAG with pgvector, evals, prompt-injection testing</sub></p>
@@ -85,7 +128,10 @@ Turf-booking marketplace I co-founded. I own the backend, written in Go.
 <br/>
 
 <p align="center">
-  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contributions&bg_color=0A0C12&color=94A3B8&title_color=F8FAFC&line=6366F1&point=67E8F9&area=true&area_color=6366F1&hide_border=true&radius=16" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contributions&bg_color=0A0C12&color=94A3B8&title_color=F8FAFC&line=6366F1&point=67E8F9&area=true&area_color=6366F1&hide_border=true&radius=16" />
+    <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=musishere&custom_title=Contributions&bg_color=FFFFFF&color=475569&title_color=0F172A&line=4F46E5&point=0891B2&area=true&area_color=4F46E5&hide_border=true&radius=16" />
+  </picture>
 </p>
 
 <p align="center"><sub>BSc Computer Science, University of Lahore · <a href="mailto:mustafabukhari333@gmail.com">mustafabukhari333@gmail.com</a></sub></p>
