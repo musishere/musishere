@@ -53,7 +53,7 @@ The repo also has Tickmark, an agent that vouches an Excel sample against invoic
 
 <br/>
 
-<a href="https://github.com/musishere/AI-platform-engineering/tree/main/llm-gateway">
+<a href="[https://github.com/musishere/AI-platform-engineering/tree/main/llm-gateway](https://github.com/musishere/llm-gateway)">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/gateway.svg" />
     <img src="./assets/gateway-light.svg" width="100%" alt="LLM Gateway" />
